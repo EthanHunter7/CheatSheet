@@ -1,0 +1,17 @@
+table, th, td{
+    border: 2px solid black;
+    font-family: Comfortaa, Arial, Helvetica, sans-serif;
+    
+}
+
+th {
+    background-color: #db2323 ;
+}
+
+td {
+    color: #d4cfcf;
+}
+
+tbody {
+    background-color: black;
+}   
